@@ -1,4 +1,4 @@
-# Making cheese pizza 
+# Making cheese pizza! 
 
 Create the dough 
 
@@ -8,3 +8,5 @@ _Philines job_
 2. place pizza in oven 
 3. wait for 10 mins
 4. Take Pizza out of oven
+
+
