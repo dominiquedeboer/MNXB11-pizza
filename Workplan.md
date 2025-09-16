@@ -1,5 +1,21 @@
 # Making cheese pizza! 
 
+### Buying ingredients
+_Kiams job_
+**Dough**
+Yeast
+Water
+Flour
+Oil
+Salt
+Sugar
+**Toppings**
+Tomatoes
+Spices
+Tomato paste
+Mozzarella
+Basil
+
 ### Prepping the ingredients
 _Dominiques job_
 1. Slice the tomatoes and make tomatosauce
@@ -14,5 +30,3 @@ _Philines job_
 2. place pizza in oven 
 3. wait for 7 mins
 4. Take Pizza out of oven
-
-
