@@ -1,20 +1,20 @@
 # Making cheese pizza! 
 
 ### Buying ingredients
-_Kiams job_
-**Dough**
-Yeast
-Water
-Flour
-Oil
-Salt
-Sugar
-**Toppings**
-Tomatoes
-Spices
-Tomato paste
-Mozzarella
-Basil
+_Kiams job_  
+**Dough**  
+Yeast  
+Water  
+Flour  
+Oil  
+Salt  
+Sugar  
+**Toppings**  
+Tomatoes  
+Spices  
+Tomato paste  
+Mozzarella  
+Basil  
 
 ### Prepping the ingredients
 _Dominiques job_
