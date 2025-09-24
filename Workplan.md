@@ -30,3 +30,10 @@ _Philines job_
 2. place pizza in oven 
 3. wait for 7 mins
 4. Take Pizza out of oven
+
+### Slicing and serving
+_Ivanas job_
+1. Slice the pizza into 8 pieces
+2. Serve 2 pieces per person
+3. Add a soft drink of your choice to enhance the experience
+4. Enjoy your meal :)
